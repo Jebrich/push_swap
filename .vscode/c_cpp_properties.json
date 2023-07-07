@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Users/superbia/Desktop/push_swap/**"
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys"
             ],
             "defines": [],
             "macFrameworkPath": [
@@ -12,7 +12,7 @@
             ],
             "cStandard": "c23",
             "cppStandard": "c++23",
-            "intelliSenseMode": "macos-clang-arm64",
+            "intelliSenseMode": "macos-gcc-arm64",
             "compilerPath": "/usr/bin/gcc"
         }
     ],
